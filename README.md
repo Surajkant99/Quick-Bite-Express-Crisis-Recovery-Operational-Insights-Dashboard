@@ -14,7 +14,7 @@ Quick Bite Express experienced a catastrophic drop in order volumes and revenue 
 
 ## 📈 Dashboards & Features
 #### Navigation
-The report is structured into five distinct analytical views:
+#### The report is structured into five distinct analytical views:
 - Executive Summary: High-level KPIs and trends showing the overall crisis impact.
 - Delivery Performance Analysis: Deep dive into SLA compliance, delivery times, and operational bottlenecks.
 - Customer Loyalty & Churn Analysis: Identifying retained vs. churned customers, focusing on high-value segments.
