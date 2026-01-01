@@ -46,7 +46,7 @@ The report is structured into five distinct analytical views:
 - Partner fallout: Key high-volume partners in major cities experienced order declines of over 90%, requiring immediate account management intervention.
 
 ## 🔗 Important links
-- [Live PowerBI dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzQyOTBkN2MtMmFmYy00ZWZkLTk5YjktYWQ3Mjg4NTc3ODM5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+- [Live PowerBI dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGYwODg2OTAtNzUwMi00YTA2LTgxNmYtMTQwN2UwOTc0NDNlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 - [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7392902188844580864/)
 
 ## 📞 Contacts
